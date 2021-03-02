@@ -1,0 +1,2 @@
+# mygit-new
+This is my first git repository
